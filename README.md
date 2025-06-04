@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="gsap-crash-course.vercel.app" target="_blank">
+    <a href="https://gsap-crash-course.vercel.app" target="_blank">
       <img src="public/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">GSAP Workshop (Starter)</h3>
@@ -48,7 +48,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter.git
-cd clone gsap-cc-starter
+cd gsap-cc-starter
 ```
 
 
